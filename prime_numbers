@@ -1,3 +1,4 @@
+
 function checkprime(number){
 if(number<=1){
 return false;
